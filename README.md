@@ -18,4 +18,4 @@ Not a big social media guy so this is all you got:
 
 He/Him - Belo Horizonte - Brazil
 
-_[^1]: unless this whole AI Vibe Coding thing changes that, because I used to build terrible GUIs in the past (but great CLI!)_
+[^1]: unless this whole AI Vibe Coding thing changes that, because I used to build terrible GUIs in the past (but great CLI!)
